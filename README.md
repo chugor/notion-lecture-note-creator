@@ -1,0 +1,1 @@
+# notion-lecture-note-creator
